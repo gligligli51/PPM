@@ -4,10 +4,10 @@ O trabalho apresentado e um programa utilizado na materia passada de  Desenvolvi
 Onde foi desenvolvido um APP de camera, que pode tirar fotos, editar e armazenar.
 A linguagem utilizada para o desenvolvimento do trabalho foi em Kotlin.
 
-                                                                                                    ### Melhorias ###
 
+### Melhorias ###
 
-### 1.MVC: Adaptar o projeto para um melhor entendimento das classes ###
+### 1. MVC: Adaptar o projeto para um melhor entendimento das classes ###
 
 Model: gerencia a lógica de dados.
 
@@ -20,7 +20,7 @@ Reutilização de código: As classes e componentes podem ser reutilizados em di
 
 Essa implementacao seria para o projeto inteiro como um todo.
 
-### 2.Refatorar as classes: ###
+### 2. Refatorar as classes: ###
 
 Ao refatorar o código, o objetivo é torná-lo mais claro, mais fácil de manter e mais eficiente, modificando a estrutura interna e a forma como os objetos são gerados, sem alterar o comportamento externo do sistema.
 
@@ -44,7 +44,7 @@ Ao refatorar o código, o objetivo é torná-lo mais claro, mais fácil de mante
 ![image](https://github.com/user-attachments/assets/245609bf-f8b5-487c-a322-d644063d89db)
 
  
-### 3.Usar uma classe builder para as activities (definir uma visualização padrão) ###
+### 3. Usar uma classe builder para as activities (definir uma visualização padrão) ###
 
 
 Uma classe builder é um padrão de design que tem como objetivo facilitar a construção de objetos complexos, fornecendo uma maneira fluida e legível de configurar suas propriedades antes de criar a instância final. Em vez de passar um número grande de parâmetros no construtor ou configurar as propriedades diretamente, o builder permite configurar as propriedades de forma mais controlada e modular.

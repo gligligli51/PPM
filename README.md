@@ -27,7 +27,9 @@ Ao refatorar o código, o objetivo é torná-lo mais claro, mais fácil de mante
 ### 2.1 Separar da activity EditImage as funções de edição e mandar elas para uma classe nova separada. ###
 
 ![image](https://github.com/user-attachments/assets/b09689d1-4d7c-45b9-86dd-c2167ca8248e)
+
 ![image](https://github.com/user-attachments/assets/16ec653c-1db4-4797-99e4-5a559452d564)
+
 ![image](https://github.com/user-attachments/assets/03f2e566-a8a3-4dfe-b333-ae45ad96bbe9)
 
  
@@ -35,12 +37,16 @@ Ao refatorar o código, o objetivo é torná-lo mais claro, mais fácil de mante
 
 ![image](https://github.com/user-attachments/assets/600fb8e4-f380-422d-8337-609a4d3c3e6b)
 
+
  
 ### 2.3 Colocar tudo pertinente a camera da mainactivity para a sua classe separada.  ###
 
 ![image](https://github.com/user-attachments/assets/ad3b1f12-3ae5-4972-b6cb-05d3f30cf20d)
+
 ![image](https://github.com/user-attachments/assets/01387c6f-b52f-4de7-8948-66144a0c8962)
+
 ![image](https://github.com/user-attachments/assets/f5625b35-d71e-432a-ad8e-fd865294af50)
+
 ![image](https://github.com/user-attachments/assets/245609bf-f8b5-487c-a322-d644063d89db)
 
  
